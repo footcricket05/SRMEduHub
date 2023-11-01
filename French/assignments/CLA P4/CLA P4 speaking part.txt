@@ -1,0 +1,15 @@
+ Higher Education:
+ Universities:
+ The master
+ The PhD
+
+ Grandes Ecoles and Specialized Schools:
+ ENA (L'Ecole Nationale d'Administration): trains state executives.
+ The Ecole Polytechnique: trains engineers and scientists.
+ HEC (L'école des Hautes Etudes commerciales): trains the elites of the world of 
+finance and trade.
+ ENS (Ecole Normale Supérieures): trains future teachers.
+
+ Higher education runs on:
+ BTS (Brevet de Technicien Supérieur)
+ IUT (University Institutes of Technology)
