@@ -34,7 +34,7 @@ Your contributions are vital to the success of SRMEduHub. If you have academic m
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Academics-Material-SRM.git
+   git clone https://github.com/footcricket05/SRMEduHub.git
    ```
 3. Add your materials to the appropriate folders or create new ones.
 4. Commit and push your changes to your forked repository.
