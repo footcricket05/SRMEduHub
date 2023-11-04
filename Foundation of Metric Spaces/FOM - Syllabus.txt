@@ -1,0 +1,29 @@
+Unit 1: Definition of Metric Space,Examples.
+Unit 1: Open and closed sets, topology and convergence.
+Unit 1: Types of metric spaces.
+
+
+
+Unit 2: Types of Maps between Metric space.
+Unit 2: Notation of metric spaces equivalence.
+Unit 2: Completeness, space-filling curve, nowhere differentiable functions.
+
+
+
+Unit 3: Topology and its properties.
+Unit 3: Distance between points and sets;  Hausdorff distance and Gromov metric.
+Unit 3: Product and quotient metric spaces.
+
+
+Unit 4: Generalizations of metric spaces.
+Unit 4: Compact spaces, examples, Tychonofs theorem.
+Unit 4: locally compact spaces, limit point compactness, local compactness.
+
+
+Unit 5: Connected spaces, components, path components and its examples.
+Unit 5: totally disconnected spaces, locally connected spaces and its examples.  
+Unit 5: countability & separation axioms, completely regular and normal spaces, 
+Urysohns lemma, Tietze extension theorem, Urysohn embedding theorem, 
+Stone-Cech compactification.
+
+
