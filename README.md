@@ -6,6 +6,11 @@ Welcome to SRMEduHub, the central hub for academic resources tailored to SRM Ins
 
 SRMEduHub is dedicated to providing a one-stop solution for students at SRM Institute of Science and Technology (formerly known as SRM University). Our mission is to simplify access to academic materials, making your educational journey smoother.
 
+## Motivation
+
+At SRMEduHub, our motivation is simple yet powerful: we want to be the seniors that we wished we had when we were juniors. We believe that education is not just about textbooks and exams; it's also about the support, guidance, and shared experiences that make the journey enjoyable and fulfilling. We've been in your shoes, and we want to make your academic journey at SRM Institute of Science and Technology as smooth and enriching as possible.
+We are committed to building a supportive and collaborative academic community where students, educators, and enthusiasts come together to learn, teach, and grow. Together, we can create an environment where everyone can access the resources they need to excel in their studies and beyond.
+
 ## Key Features
 
 - **Rich Repository**: Access a vast collection of academic resources, including lecture notes, study materials, and helpful documents.
