@@ -57,7 +57,7 @@ Certainly! Here's the updated license part with the Apache License, Version 2.0:
 
 ## License
 
-SRMEduHub is open-source and licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). By contributing, you agree to have your contributions covered by this license.
+SRMEduHub is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). By contributing, you agree to have your contributions covered by this license.
 
 We aim to make SRMEduHub an invaluable resource for SRM students. If you have questions or suggestions, don't hesitate to reach out to the repository maintainers. 
 
