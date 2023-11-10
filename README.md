@@ -53,11 +53,13 @@ Your contributions are vital to the success of SRMEduHub. If you have academic m
 
 Please ensure that your contributions follow the repository guidelines and respect copyright and intellectual property rights. 📜
 
-Certainly! Here's the updated license part with the Apache License, Version 2.0:
+## Code of Conduct
+
+Please note that SRMEduHub has a [Code of Conduct](CodeOfConduct.md) that all contributors are expected to follow. This ensures a positive and inclusive community for everyone involved.
 
 ## License
 
-SRMEduHub is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). By contributing, you agree to have your contributions covered by this license. 📜📚
+SRMEduHub is open-source and licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). By contributing, you agree to have your contributions covered by this license. 📜📚
 
 We aim to make SRMEduHub an invaluable resource for SRM students. If you have questions or suggestions, don't hesitate to reach out to the repository maintainers. 🤔📧
 
