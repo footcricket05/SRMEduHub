@@ -1,0 +1,5 @@
+lab 10- installation of docker
+lab 11- installation of kubernetes
+lab 12- installation of git
+lab 13- installation of gradle & jenkins
+lab 14- installation of selenium and selenium webdriver
