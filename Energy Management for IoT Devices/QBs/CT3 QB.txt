@@ -1,0 +1,25 @@
+1.	Discuss role of IoT in smarthome and smart cities 
+2.	State the importance of Green IoT 
+3.	Define IoT based Intelligent Transport System 
+4.	Discuss the working process of IoT based Smart Metering 
+5.	Explain briefly about Various Approaches to Achieve Green IoT
+6.	Compare hardware and software-based Green IoT techniques
+7.	List Comparative analysis of different green IoT approaches
+8.	Discuss in detail Communication Technology Creating Awareness About Green Information, Promoting Recycling               
+9.	Discuss in detail Smart Homes, Smart Cities in IoT    
+10.	Sketch the Usage of Sensor Cloud: a step toward green IoT
+11.	Write the impact of smart phones on the environment in present and future trends
+12.	 Discuss in detail creating awareness of Green IoT based smart factories.                  
+          UNIT-5
+1.	Explain in detail communication technology role in intelligent Transport System
+2.	State the motivations for IoT in Transportation 
+3.	Explain in detail intelligent Transport System with suitable example 
+4.	Discuss the role of Electric vehicle in Energy saving 
+5.	Discuss Electric Vehicles and Solar Power Plants in Smart Grid Environment 
+6.	Describe weather monitoring using BLE technologies
+7.	State the importance of Bluetooth Low Energy with example
+8.	Explain in detail energy efficient IoT based Intelligent Transport System
+9.	Explain in detail role of IoT in Development of Electric and autonomous vehicles.
+10.	Interpret the Weather monitoring using Bluetooth Low Energy (BLE) in warehouses
+11.	Demonstrate the steps of Battery Management System, Grid Connection and Performance Testing of V2G
+12.	Explain in detail potential of EV to Grid connection
